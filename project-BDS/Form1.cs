@@ -105,9 +105,13 @@ namespace project_BDS
             }
             using (StreamWriter sw = new StreamWriter(filePath))
             {
+                sw.WriteLine("Đây là danh sách các số điện thoại của các khách hàng ở tp hcm");
                 for (int j = 0; j < userList.Count; j++)
                 {
-                    sw.WriteLine($"{userList[j].Phone}");
+                    if (userList[j].checkAdress())
+                    {
+                        sw.WriteLine($"{userList[j].Phone}");
+                    }
                 }
             }
             MessageBox.Show("Đã lưu tất cả sdt vào file theo đường dẫn yêu cầu");
