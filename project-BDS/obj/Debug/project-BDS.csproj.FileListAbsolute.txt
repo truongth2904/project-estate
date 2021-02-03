@@ -1,0 +1,12 @@
+C:\Users\truon\Desktop\project-BDS\project-BDS\bin\Debug\project-BDS.exe.config
+C:\Users\truon\Desktop\project-BDS\project-BDS\bin\Debug\project-BDS.exe
+C:\Users\truon\Desktop\project-BDS\project-BDS\bin\Debug\project-BDS.pdb
+C:\Users\truon\Desktop\project-BDS\project-BDS\bin\Debug\EPPlus.Core.dll
+C:\Users\truon\Desktop\project-BDS\project-BDS\bin\Debug\EPPlus.Core.xml
+C:\Users\truon\Desktop\project-BDS\project-BDS\obj\Debug\project_BDS.Form1.resources
+C:\Users\truon\Desktop\project-BDS\project-BDS\obj\Debug\project_BDS.Properties.Resources.resources
+C:\Users\truon\Desktop\project-BDS\project-BDS\obj\Debug\project-BDS.csproj.GenerateResource.cache
+C:\Users\truon\Desktop\project-BDS\project-BDS\obj\Debug\project-BDS.csproj.CoreCompileInputs.cache
+C:\Users\truon\Desktop\project-BDS\project-BDS\obj\Debug\project-BDS.csproj.CopyComplete
+C:\Users\truon\Desktop\project-BDS\project-BDS\obj\Debug\project-BDS.exe
+C:\Users\truon\Desktop\project-BDS\project-BDS\obj\Debug\project-BDS.pdb
