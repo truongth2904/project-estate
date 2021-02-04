@@ -10,4 +10,3 @@ C:\Users\truon\Desktop\project-BDS\project-BDS\obj\Debug\project-BDS.csproj.Core
 C:\Users\truon\Desktop\project-BDS\project-BDS\obj\Debug\project-BDS.csproj.CopyComplete
 C:\Users\truon\Desktop\project-BDS\project-BDS\obj\Debug\project-BDS.exe
 C:\Users\truon\Desktop\project-BDS\project-BDS\obj\Debug\project-BDS.pdb
-C:\Users\truon\Desktop\project-BDS\project-BDS\obj\Debug\project-BDS.csprojAssemblyReference.cache
